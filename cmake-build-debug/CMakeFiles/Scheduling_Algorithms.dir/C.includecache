@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/FCFS.h
+Queue.h
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/Queue.h
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/Queue.h
+stdio.h
+-
+stdlib.h
+-
+process.h
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/process.h
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/RR.h
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/SJF.h
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/main.c
+stdio.h
+-
+FCFS.h
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/FCFS.h
+SJF.h
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/SJF.h
+RR.h
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/RR.h
+priorityScheduling.h
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/priorityScheduling.h
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/priorityScheduling.h
+
+/Users/karen/Desktop/Hariprasath_R.S/MCA/4th Semester/Operating System/Lab/Scheduling Algorithms/process.h
+
