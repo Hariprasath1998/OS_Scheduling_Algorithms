@@ -10,7 +10,7 @@ void prioritySort(priorityProcess *p[], int n)
             if (p[j]->priority > p[min_idx]->priority)
                 min_idx = j;
 
-        swap(p[min_idx], p[i]);
+        prioritySwap(p[min_idx], p[i]);
     }
 }
 

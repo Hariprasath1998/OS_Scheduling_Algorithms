@@ -6,6 +6,13 @@ void swap(Process * a, Process * b)
     *b = temp;
 }
 
+void prioritySwap(priorityProcess * a, priorityProcess * b)
+{
+    priorityProcess temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
 void sort(Process *p[], int n)
 {
     int i, j, min_idx;
